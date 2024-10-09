@@ -1,0 +1,22 @@
+# Gerador de Códigos de Barras em SVG
+
+Este projeto permite gerar códigos de barras em formato SVG a partir de um arquivo JSON contendo informações sobre produtos. O código utiliza as bibliotecas `jsbarcode` e `canvas` para criar os códigos de barras e salvar os arquivos gerados.
+
+## Funcionalidades
+
+- Lê um arquivo JSON contendo dados de produtos.
+- Gera códigos de barras no formato SVG para cada produto.
+- Salva os arquivos SVG na mesma pasta do script.
+
+## Pré-requisitos
+
+- [Node.js](https://nodejs.org/) (versão 12 ou superior)
+- Gerenciador de pacotes `npm` (geralmente instalado junto com o Node.js)
+
+## Instalação
+
+1. Clone este repositório ou faça o download dos arquivos.
+
+   ```bash
+   git clone https://github.com/seu-usuario/gerador-codigo-barras.git
+   cd gerador-codigo-barras
