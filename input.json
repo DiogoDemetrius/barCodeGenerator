@@ -1,0 +1,12 @@
+[
+    {
+        "nome": "Camarão Premium",
+        "valor": 39.00,
+        "codigo": "123456789012"
+    },
+    {
+        "nome": "Camarão",
+        "valor": 11.00,
+        "codigo": "987654321098"
+    }
+]
