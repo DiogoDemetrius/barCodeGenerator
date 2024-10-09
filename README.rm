@@ -18,5 +18,5 @@ Este projeto permite gerar códigos de barras em formato SVG a partir de um arqu
 1. Clone este repositório ou faça o download dos arquivos.
 
    ```bash
-   git clone https://github.com/seu-usuario/gerador-codigo-barras.git
+   git clone https://github.com/DiogoDemetrius/codBarGenerator.git
    cd gerador-codigo-barras
